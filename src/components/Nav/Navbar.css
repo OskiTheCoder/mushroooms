@@ -1,0 +1,63 @@
+.navbar {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.letter {
+  font-size: 2rem;
+  font-weight: 100;
+  letter-spacing: 0.3rem;
+}
+.letter-m {
+  opacity: 0.9;
+}
+
+.letter-u {
+  opacity: 0.7;
+}
+
+.letter-s {
+  opacity: 0.5;
+}
+
+.letter-h {
+  opacity: 0.3;
+}
+
+.letter-r {
+  opacity: 0.2;
+}
+
+.letter-o-1 {
+  opacity: 0.1;
+}
+
+.letter-o-2 {
+  opacity: 0.01;
+}
+
+.cart-container {
+  position: relative;
+}
+
+.cart-container:hover {
+  cursor: pointer;
+}
+
+.cart-items {
+  font-size: 11px;
+  position: absolute;
+  top: -5px;
+  right: -2px;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 100%;
+  background-color: #ff7675;
+  text-align: center;
+  padding-top: 2px;
+  color: #2d3436;
+}
