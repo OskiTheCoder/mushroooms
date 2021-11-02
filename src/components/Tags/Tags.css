@@ -1,0 +1,23 @@
+.tags-container {
+  margin: 4rem;
+}
+
+.mushroom-tag {
+  margin-right: 0.7rem;
+  padding: 0.7rem;
+  border-radius: 0.9rem;
+  font-weight: 400;
+  color: #2d3436aa;
+}
+
+.blue-tag {
+  background-color: #9ab7db66;
+}
+
+.red-tag {
+  background-color: #dbaba869;
+}
+
+.green-tag {
+  background-color: #aacfd6e3;
+}
